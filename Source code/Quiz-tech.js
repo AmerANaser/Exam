@@ -413,7 +413,7 @@ console.log(correct)
 //1s == 1000ms
 let timeLeft = 600;
 let minute = 9;
-let second = 60;
+let second = 59;
 
 let interval = setInterval(() => {
   timeLeft--;
